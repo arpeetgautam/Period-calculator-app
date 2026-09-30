@@ -1,0 +1,17 @@
+{
+  "name": "Bloom Cycle Tracker",
+  "short_name": "Bloom",
+  "description": "A private period and cycle tracker. Your dates stay on your device.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fffaf8",
+  "theme_color": "#fffaf8",
+  "icons": [
+    {
+      "src": "/flower.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
