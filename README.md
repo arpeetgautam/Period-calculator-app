@@ -1,6 +1,10 @@
-# React + TypeScript + Vite
+# Period Calculator App
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+It calculates next period.
+
+## Development setup
+
+This project uses React, TypeScript, and Vite with HMR and Oxlint rules.
 
 Currently, two official plugins are available:
 
